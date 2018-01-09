@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Driver
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=dir
+comment2.target=boolean\ checkDir(java.lang.String)
+comment3.params=action
+comment3.target=boolean\ checkAction(java.lang.String)
+comment4.params=map
+comment4.target=boolean\ emptyMap(java.lang.Object[][])
+comment5.params=map
+comment5.target=boolean\ swordInMap(java.lang.Object[][])
+comment6.params=map
+comment6.target=boolean\ armorInMap(java.lang.Object[][])
+numComments=7
